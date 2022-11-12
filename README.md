@@ -1,1 +1,1 @@
-# mini-hackathon
+link = https://hackathon-mini.netlify.app/
